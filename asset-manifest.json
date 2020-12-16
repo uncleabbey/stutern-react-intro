@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stutern-react-intro/static/css/main.c8d5e25f.chunk.css",
+    "main.js": "/stutern-react-intro/static/js/main.d9893171.chunk.js",
+    "main.js.map": "/stutern-react-intro/static/js/main.d9893171.chunk.js.map",
+    "runtime-main.js": "/stutern-react-intro/static/js/runtime-main.0a8290db.js",
+    "runtime-main.js.map": "/stutern-react-intro/static/js/runtime-main.0a8290db.js.map",
+    "static/js/2.053cb19f.chunk.js": "/stutern-react-intro/static/js/2.053cb19f.chunk.js",
+    "static/js/2.053cb19f.chunk.js.map": "/stutern-react-intro/static/js/2.053cb19f.chunk.js.map",
+    "static/js/3.24797f02.chunk.js": "/stutern-react-intro/static/js/3.24797f02.chunk.js",
+    "static/js/3.24797f02.chunk.js.map": "/stutern-react-intro/static/js/3.24797f02.chunk.js.map",
+    "index.html": "/stutern-react-intro/index.html",
+    "static/css/main.c8d5e25f.chunk.css.map": "/stutern-react-intro/static/css/main.c8d5e25f.chunk.css.map",
+    "static/js/2.053cb19f.chunk.js.LICENSE.txt": "/stutern-react-intro/static/js/2.053cb19f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a8290db.js",
+    "static/js/2.053cb19f.chunk.js",
+    "static/css/main.c8d5e25f.chunk.css",
+    "static/js/main.d9893171.chunk.js"
+  ]
+}
